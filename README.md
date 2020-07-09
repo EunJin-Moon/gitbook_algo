@@ -1,10 +1,7 @@
-# Initial page
+# Read Me
 
-read me
+Algorithm Solve
 
-
-
-
-
-hi~
+* Baekjoon
+* SWEA
 
