@@ -4,10 +4,10 @@
 
 ## baekjoon
 
-* [구슬탈출2](baekjoon/2.md)
-* [2048\(easy\)](baekjoon/2048-easy.md)
+* [13460\_구슬탈출2](baekjoon/2.md)
+* [12100\_2048\(easy\)](baekjoon/2048-easy.md)
 * [3190\_뱀](baekjoon/3190_.md)
-* [주사위굴리기](baekjoon/undefined.md)
+* [14499\_주사위굴리기](baekjoon/undefined.md)
 
 ---
 

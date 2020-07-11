@@ -1,4 +1,4 @@
-# 주사위굴리기
+# 14499\_주사위굴리기
 
 ```text
 import java.io.BufferedReader;
