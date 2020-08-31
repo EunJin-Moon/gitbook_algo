@@ -4,6 +4,7 @@
 
 ## baekjoon
 
+* [2294\_동전2](baekjoon/2294_-2.md)
 * [2529\_부등호](baekjoon/2529_.md)
 * [14620\_꽃길](baekjoon/14620_.md)
 * [13460\_구슬탈출2](baekjoon/2.md)
