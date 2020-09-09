@@ -4,6 +4,8 @@
 
 ## baekjoon
 
+* [1759\_암호만들기](baekjoon/1759_.md)
+* [16929\_TwoDots](baekjoon/16929_twodots.md)
 * [16954\_움직이는미로탈출](baekjoon/16954_.md)
 * [17153\_최단경로\(다익스트라\)](baekjoon/17153_.md)
 * [1038\_감소하는수](baekjoon/1038_.md)
@@ -19,8 +21,4 @@
 * [3190\_뱀](baekjoon/3190_.md)
 * [14499\_주사위굴리기](baekjoon/undefined.md)
 * [13458\_시험감독](baekjoon/13458_.md)
-
----
-
-* [16929\_TwoDots](16929_twodots.md)
 
