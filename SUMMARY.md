@@ -4,6 +4,7 @@
 
 ## baekjoon
 
+* [17070\_파이프옮기기1](baekjoon/17070_-1.md)
 * [14890\_경사로](baekjoon/14890_.md)
 * [1759\_암호만들기](baekjoon/1759_.md)
 * [16929\_TwoDots](baekjoon/16929_twodots.md)
