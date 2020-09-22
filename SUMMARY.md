@@ -24,4 +24,5 @@
 * [3190\_뱀](baekjoon/3190_.md)
 * [14499\_주사위굴리기](baekjoon/undefined.md)
 * [13458\_시험감독](baekjoon/13458_.md)
+* [17265\_나의인생에는수학과함께](baekjoon/17265_.md)
 
