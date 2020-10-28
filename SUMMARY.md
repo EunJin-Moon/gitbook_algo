@@ -4,6 +4,7 @@
 
 ## baekjoon
 
+* [12904\_A와B](baekjoon/12904_a-b.md)
 * [20056\_마법사 상어와 파이어볼](baekjoon/20056_.md)
 * [1662\_압축](baekjoon/1662_.md)
 * [17836\_공주님을구해라](baekjoon/17836_.md)
