@@ -46,3 +46,7 @@
 * [lv3\_정수삼각형](programmers/lv3_.md)
 * [삼각달팽이](programmers/undefined.md)
 
+---
+
+* [11052\_카드구매하기](11052_.md)
+
