@@ -4,6 +4,8 @@
 
 ## baekjoon
 
+* [11052\_카드구매하기](baekjoon/11052_.md)
+* [1991\_순회](baekjoon/1991_.md)
 * [2156\_포도주시식](baekjoon/2156_.md)
 * [1149\_RGB거리](baekjoon/1149_rgb.md)
 * [12904\_A와B](baekjoon/12904_a-b.md)
@@ -45,8 +47,4 @@
 * [lv2\_전화번호부](programmers/lv2_.md)
 * [lv3\_정수삼각형](programmers/lv3_.md)
 * [삼각달팽이](programmers/undefined.md)
-
----
-
-* [11052\_카드구매하기](11052_.md)
 
