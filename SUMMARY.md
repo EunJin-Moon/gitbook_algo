@@ -4,6 +4,7 @@
 
 ## baekjoon
 
+* [14225\_부분수열합](baekjoon/14225_.md)
 * [11052\_카드구매하기](baekjoon/11052_.md)
 * [1991\_순회](baekjoon/1991_.md)
 * [2156\_포도주시식](baekjoon/2156_.md)
