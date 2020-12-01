@@ -4,6 +4,7 @@
 
 ## baekjoon
 
+* [16234\_인구이동](baekjoon/16234_.md)
 * [15683\_감시](baekjoon/15683_.md)
 * [16236\_아기상어](baekjoon/16236_.md)
 * [14891\_톱니바퀴](baekjoon/14891_.md)
